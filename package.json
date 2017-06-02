@@ -1,0 +1,15 @@
+{
+    "name": "@types/jss-theme-reactor",
+    "version": "0.0.1",
+    "description": "TypeScript definitions for jss-theme-reactor",
+    "license": "MIT",
+    "author": "Navrin Thomas <github.com/Navrin>",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typings": "index.d.ts",
+}
